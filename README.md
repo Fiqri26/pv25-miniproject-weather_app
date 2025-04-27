@@ -1,6 +1,6 @@
 # pv25-miniproject-weather_app
 ### 1. Tampilan UI di Qt Designer
-![image](https://github.com/user-attachments/assets/a1d0dde0-e879-4ee9-8c90-239e8d66fe15)
+![image](https://github.com/user-attachments/assets/c26155ba-ebc7-4e5e-adc2-63eccae69bcb)
 ### 2. Tampilan awal aplikasi ketika dijalankan
 ![image](https://github.com/user-attachments/assets/0d54186e-7e1b-4f04-8a3d-fb5373d7a694)
 ### 3. Tampilan aplikasi ketika pengguna belum memasukkan nama lokasi
